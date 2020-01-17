@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "HW" << std::endl;
+    std::cout << "I wanna eat hamburgers and get drunk until the end of the day!" << std::endl;
 }
